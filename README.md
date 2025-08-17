@@ -1,6 +1,8 @@
 
 # ⚡ Circuit Builder WebApp (Alpha)
  👉 A web-based PCB design simulator (Alpha) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
+ 
+<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/e675f6ae-7449-4bf7-8295-97e10e287828" />
 
 ## 📌 Overview  
 This project is a **React-based web application** for building simple circuits visually. (May use Vite or Tailwind CSS in future)  
