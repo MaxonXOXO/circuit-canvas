@@ -21,7 +21,7 @@ Currently in **Alpha stage**:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure (Alpha! may or may not change)
 ```
 src/
  ┣ components/
@@ -38,8 +38,8 @@ src/
 ## 🚀 Installation & Running
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/circuit-builder-webapp.git
-cd circuit-builder-webapp
+git clone https://github.com/MaxonXOXO>/circuit-canvas.git
+cd circuit-canvas
 
 # Install dependencies
 npm install
