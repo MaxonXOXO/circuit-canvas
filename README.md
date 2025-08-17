@@ -3,7 +3,7 @@
  👉 A web-based PCB design simulator (Alpha) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
 
 ## 📌 Overview  
-This project is a **React-based web application** for building simple circuits visually.  
+This project is a **React-based web application** for building simple circuits visually. (May use Vite or Tailwind CSS in future)  
 Users can drag electronic components from a sidebar, drop them on a canvas, and arrange them using an invisible grid with snapping support.  
 
 Currently in **Alpha stage**:
@@ -38,7 +38,7 @@ src/
 ## 🚀 Installation & Running
 ```bash
 # Clone the repo
-git clone https://github.com/MaxonXOXO>/circuit-canvas.git
+git clone https://github.com/MaxonXOXO/circuit-canvas.git
 cd circuit-canvas
 
 # Install dependencies
