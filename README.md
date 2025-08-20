@@ -2,7 +2,8 @@
 # ⚡ Circuit Builder WebApp (Alpha)
  👉 A web-based PCB design simulator (Alpha) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
  
-<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/902b4ec6-64cf-4b52-8f1b-c5034212a5e8" />
+<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/2c15e269-2b2d-4c68-a907-0086b6f0f2da" />
+
 
 
 ## 📌 Overview  
