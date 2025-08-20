@@ -13,7 +13,7 @@ Users can drag electronic components from a sidebar, drop them on a canvas, and 
 Currently in **Alpha stage**:
 - ✅ Drag & Drop from sidebar to canvas  
 - ✅ Grid snapping  
-- 🚧 Upcoming: Resizing, repositioning, and connecting traces  
+- 🚧 Upcoming: Resizing, 
 
 ---
 
@@ -21,7 +21,8 @@ Currently in **Alpha stage**:
 - **Drag & Drop Components** → Place parts like resistors, LEDs, etc. on the canvas.  
 - **Snap to Grid** → Keeps items aligned neatly.  
 - **Resizable & Moveable Elements (Coming Soon)** → Planned functionality for resizing components and repositioning after drop.  
-- **Trace Drawing (Planned)** → Invisible grid layout for drawing circuit traces.  
+- **Trace Drawing (Planned)** → Invisible grid layout for drawing circuit traces.
+- **And much more!  
 
 ---
 
@@ -39,7 +40,7 @@ src/
 
 ---
 
-## 🚀 Installation & Running
+## 🚀 Installation & Running [Unstable may have bugs]
 ```bash
 # Clone the repo
 git clone https://github.com/MaxonXOXO/circuit-canvas.git
