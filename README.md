@@ -1,8 +1,7 @@
 
 # ⚡ Introducing Infinite Circuits! a circuit Builder WebApp (Beta)
  👉 A web-based PCB design simulator (Beta) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
- 
-<img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/ff5927d1-80df-44e3-936a-d42c65bb90ec" />
+ <img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/c5c1df52-6f17-4cde-914f-0d6e23f25e02" />
 
 
 
