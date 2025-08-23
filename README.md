@@ -1,8 +1,8 @@
 
-# ⚡ Circuit Builder WebApp (Alpha)
+# ⚡ Circuit Builder WebApp (Beta)
  👉 A web-based PCB design simulator (Alpha) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
  
-<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/2c15e269-2b2d-4c68-a907-0086b6f0f2da" />
+<img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/ff5927d1-80df-44e3-936a-d42c65bb90ec" />
 
 
 
@@ -14,7 +14,7 @@ Here’s a draft `README.md` tailored for **Infinite Circuits** and CyberLife La
 
 ---
 
-````markdown
+
 # Infinite Circuits ⚡  
 *A circuit prototyping playground by [CyberLife Labs](https://github.com/YourGitHubProfile)*  
 
