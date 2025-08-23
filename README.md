@@ -1,6 +1,6 @@
 
 # ⚡ Circuit Builder WebApp (Beta)
- 👉 A web-based PCB design simulator (Alpha) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
+ 👉 A web-based PCB design simulator (Beta) — drag, drop, snap, and connect components on an interactive canvas. Inspired by Circuito.io.
  
 <img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/ff5927d1-80df-44e3-936a-d42c65bb90ec" />
 
@@ -9,8 +9,6 @@
 ## 📌 Overview  
 This project is a **React-based web application** for building simple circuits visually. (May use Vite or Tailwind CSS in future)  
 Users can drag electronic components from a sidebar, drop them on a canvas, and arrange them using an invisible grid with snapping support.  
-
-Here’s a draft `README.md` tailored for **Infinite Circuits** and CyberLife Labs. It presents your project professionally, sets a roadmap, and positions it as your startup’s first release:
 
 ---
 
@@ -41,7 +39,7 @@ This project marks the beginning of a growing ecosystem of tools for makers, stu
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React (Vite), JSX  
-- **Styling:** CSS (custom)  
+- **Styling:** CSS (custom) + Tailwind  
 - **State Handling:** Internal history + component-driven state  
 - **Bundling/Dev:** Vite  
 
@@ -69,7 +67,7 @@ CyberLife Labs has ambitious plans for **Infinite Circuits**:
 ### Installation  
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/infinite-circuits.git
+git clone https://github.com/MaxonXOXO/circuit-canvas.git
 
 # Navigate into the project
 cd infinite-circuits
@@ -96,7 +94,7 @@ We welcome contributions from the community!
 
 Developed with passion at **CyberLife Labs** 🧬
 
-* Founder: [Your Name](https://github.com/yourusername)
+* Founder: [Your Name](https://github.com/MaxonXOXO)
 
 ---
 
